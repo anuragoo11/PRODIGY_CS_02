@@ -1,4 +1,4 @@
-# PRODIGY_CS_02
+
 # 🖼️ Image Encryption Tool
 
 This project implements a simple image encryption and decryption tool using Python's tkinter for the GUI and PIL (Pillow) for image manipulation.
